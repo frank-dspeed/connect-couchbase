@@ -6,7 +6,7 @@
     "main": "./index.js",
     "repository": { "type": "git", "url": "git@github.com:christophermina/connect-couchbase.git" },
     "dependencies": {
-        "debug": "*"
+        "debug": ">=2.6.5"
     },
     "devDependencies": { "express-session": "^1.9.1" },
     "engines": { "node": "*" },
