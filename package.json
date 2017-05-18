@@ -8,7 +8,7 @@
     "dependencies": {
         "debug": "*"
     },
-    "devDependencies": { "express-session": "^1.9.1" },
+    "devDependencies": { "express-session": "^1.15.3" },
     "engines": { "node": "*" },
     "bugs": {
         "url": "https://github.com/christophermina/connect-couchbase/issues"
